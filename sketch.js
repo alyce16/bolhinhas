@@ -28,7 +28,7 @@ function draw() {
 if(mouseY < posicaoVertical) {
     posicaoVertical --;
 }
-
+ 
 if(mouseY > posicaoVertical) {
     posicaoVertical ++;
 }
